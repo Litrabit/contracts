@@ -55,7 +55,7 @@ contract Ownable {
 
 /**
  * @title Token
- * @dev API interface for interacting with the WILD Token contract 
+ * @dev API interface for interacting with the Litrabi Token contract 
  */
 interface Token {
   function transfer(address _to, uint256 _value)external returns (bool);
